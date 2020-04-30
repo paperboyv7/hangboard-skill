@@ -1,0 +1,4 @@
+{
+    "intent_type": "hangboard.intent",
+    "utterance": "Start hangboard with {number} second hangs {number} second rests and {number} reps"
+}
