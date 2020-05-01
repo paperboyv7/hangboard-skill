@@ -5,7 +5,7 @@ Hangboard timer
 Voice assist for timed hangs including hangtime, rests, and reps
 
 ## Examples
-* "hangboard with 10 second hangs 60 second rests and 5 reps"
+* "hangboard 10 seconds with 60 second rests for 5 reps"
 
 ## Credits
 paperboyv7
