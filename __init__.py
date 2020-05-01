@@ -12,7 +12,9 @@ class hangboard(MycroftSkill):
             response = {'number': message.data.get("number")}
             self.speak_dialog("hangboard_start", data=response)
             for i in range(number, 0, -1):
-                self.speak(str(i) + " .")
+                self.speak("hang" + " .")
+            for i in range(number, 0, -1):
+                self.speak("rest" + " .")
             self.speak_dialog("hangboard_stop")
             pass
         except:
