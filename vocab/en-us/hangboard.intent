@@ -1,2 +1,2 @@
-hangboard {hang} seconds rest {rest} seconds for {reps} reps 
+hangboard (for|) {hang} seconds rest (for|) {rest} seconds for {reps} (reps|rep|set|sets)
 
